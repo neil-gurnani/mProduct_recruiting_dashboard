@@ -11,6 +11,9 @@ This is **unofficial**, largely research based advice on Recruiting for the comp
 
 * (2) **PM Internship Timeline** This website provides a rough timeline for some of the most common APM positions offered at major companies, and links to pages which desrcibe those speicifc APM programs in more depth. : http://internship-timeline.com/product.html
 
+* (3) **Top 15 APM Programs** This Medium articles goes into some of the top APM programs and why they are worth applying to!: https://medium.com/pminsider/product-management-digest-apm-3c2631683139
+
+
 * (3) **Justina Chen** wrote a helpful Medium article about Navigating the APM recruiting process here. She talks about her experiences with the recruiting process, covering everything from career fairs to referrals. : https://medium.com/pminsider/navigating-the-entry-level-pm-apm-recruiting-process-957993620ac5
 
 * (4) **Kyle Lubieniecki** wrote a helpful Medium article on navigating your ENTIRE career path in PM, covering everything from why you want to pursue a career in PM to insight and advice to aspiring product managers. : https://productcoalition.com/navigating-your-career-into-product-management-4a8de0f68c09
@@ -45,8 +48,8 @@ Obviously, a lot of big tech companies, even some of FAAMG do offer various PM p
 * (4) **Microsoft** : https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview
                       https://www.tryexponent.com/guides/microsoft/pm-interview
 
-* (5) **Google** : https://www.productschool.com/blog/product-management-2/jobs-cat everything-google-associate-product-manager-program-apmp/
-https://medium.com/@maayanalbert/maayan-google-c10a05df0f4c
+* (5) **Google** : https://blog.usejournal.com/how-to-prepare-for-your-google-apm-interviews-b665584c13fc
+
 
 
 ## Startups
