@@ -58,7 +58,7 @@ Moving towards the startup ecosystems, a great deal of startups also offer vario
 **Major Startup Companies**
 * (1) **Bird**  : COMING SOON
 
-* (2) **Uber** : COMING 
+* (2) **Uber** : COMING SOON
 
 * (3) **Lyft** : COMING SOON
 
