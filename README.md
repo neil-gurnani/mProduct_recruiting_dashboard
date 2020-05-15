@@ -14,15 +14,15 @@ This is **unofficial**, largely research based advice on Recruiting for the comp
 * (3) **Top 15 APM Programs** This Medium articles goes into some of the top APM programs and why they are worth applying to!: https://medium.com/pminsider/product-management-digest-apm-3c2631683139
 
 
-* (3) **Justina Chen** wrote a helpful Medium article about Navigating the APM recruiting process here. She talks about her experiences with the recruiting process, covering everything from career fairs to referrals. : https://medium.com/pminsider/navigating-the-entry-level-pm-apm-recruiting-process-957993620ac5
+* (4) **Justina Chen** wrote a helpful Medium article about Navigating the APM recruiting process here. She talks about her experiences with the recruiting process, covering everything from career fairs to referrals. : https://medium.com/pminsider/navigating-the-entry-level-pm-apm-recruiting-process-957993620ac5
 
-* (4) **Kyle Lubieniecki** wrote a helpful Medium article on navigating your ENTIRE career path in PM, covering everything from why you want to pursue a career in PM to insight and advice to aspiring product managers. : https://productcoalition.com/navigating-your-career-into-product-management-4a8de0f68c09
+* (5) **Kyle Lubieniecki** wrote a helpful Medium article on navigating your ENTIRE career path in PM, covering everything from why you want to pursue a career in PM to insight and advice to aspiring product managers. : https://productcoalition.com/navigating-your-career-into-product-management-4a8de0f68c09
 
-* (5) **Julia Austin** from the Harvard Business Review provided some insight into the skills and core competencies one should work on and self growth aspects one can improve upon to become a more effective product manager & overall more well equipped for the arduous PM recruiting process. : https://hbr.org/2017/12/what-it-takes-to-become-a-great-product-manager
+* (6) **Julia Austin** from the Harvard Business Review provided some insight into the skills and core competencies one should work on and self growth aspects one can improve upon to become a more effective product manager & overall more well equipped for the arduous PM recruiting process. : https://hbr.org/2017/12/what-it-takes-to-become-a-great-product-manager
 
-* (6) **Onfielder** released something known as the PM starter pack, which basically goes through to outline the various staged of being an effective PM, and thus being able to navigate the PM recruiting cycle. : https://pmstarterpack.onfielder.com/
+* (7) **Onfielder** released something known as the PM starter pack, which basically goes through to outline the various staged of being an effective PM, and thus being able to navigate the PM recruiting cycle. : https://pmstarterpack.onfielder.com/
 
-* (7) **Ben Miller** from Product Plan wrote a piece about how to land a PM job at a large tech company. He provides insights and walks through a mini-tutorial for Google, Amazon, Facebook, and Apple: https://www.productplan.com google-amazon-facebook-apple/
+* (8) **Ben Miller** from Product Plan wrote a piece about how to land a PM job at a large tech company. He provides insights and walks through a mini-tutorial for Google, Amazon, Facebook, and Apple: https://www.productplan.com google-amazon-facebook-apple/
 
 
 
