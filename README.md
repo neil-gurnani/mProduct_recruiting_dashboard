@@ -7,9 +7,9 @@ This is **unofficial**, largely research based advice on Recruiting for the comp
 
 ## General helpful resources
 
-* (1) **APM List** This website provides a list of APM programs, and links with advice for each of these positions. : https://apmlist.com/
+* (1) **APM List** This website provides a list of APM programs, and links with advice for each of these positions. :   [APM List](https://apmlist.com/){:target= "blank"}
 
-* (2) **PM Internship Timeline** This website provides a rough timeline for some of the most common APM positions offered at major companies, and links to pages which desrcibe those speicifc APM programs in more depth. : http://internship-timeline.com/product.html
+* (2) **PM Internship Timeline** This website provides a rough timeline for some of the most common APM positions offered at major companies, and links to pages which desrcibe those speicifc APM programs in more depth. :[Timeline](http://internship-timeline.com/product.html){:target= "blank"}      
 
 * (3) **Top 15 APM Programs** This Medium articles goes into some of the top APM programs and why they are worth applying to!: https://medium.com/pminsider/product-management-digest-apm-3c2631683139
 
