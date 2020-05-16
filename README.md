@@ -22,7 +22,11 @@ This is **unofficial**, largely research based advice on Recruiting for the comp
 
 * (7) **Onfielder** released something known as the PM starter pack, which basically goes through to outline the various staged of being an effective PM, and thus being able to navigate the PM recruiting cycle. : https://pmstarterpack.onfielder.com/
 
-* (8) **Ben Miller** from Product Plan wrote a piece about how to land a PM job at a large tech company. He provides insights and walks through a mini-tutorial for Google, Amazon, Facebook, and Apple: https://www.productplan.com google-amazon-facebook-apple/
+* (8) **Lenny Rachitsky** wrote an article about how to get into PM, which outlines everything from figuring out whether PM is right for you to thriving in the industry by developing core skills needed to suceed. : https://medium.com/hackernoon/how-to-get-into-product-management-78c58bd9c8cf
+
+* (9) **Ben Miller** from Product Plan wrote a piece about how to land a PM job at a large tech company. He provides insights and walks through a mini-tutorial for Google, Amazon, Facebook, and Apple: https://www.productplan.com google-amazon-facebook-apple/
+
+* (10) **Exponent** has a terrific youtube channel that has lots of PM process & interview resources: https://www.youtube.com/channel/UCjm_qVkCPjOVDz9BWjNqO9A
 
 
 
