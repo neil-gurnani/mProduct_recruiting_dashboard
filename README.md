@@ -7,7 +7,7 @@ This is **unofficial**, largely research based advice on Recruiting for the comp
 
 ## General helpful resources
 
-* (1) **APM List** This website provides a list of APM programs, and links with advice for each of these positions. :   [APM List](https://apmlist.com/){:target= "blank"}
+* (1) **APM List** This website provides a list of APM programs, and links with advice for each of these positions. :  *APM List* <a href="https://apmlist.com/" target="_blank">New Tab</a>
 
 * (2) **PM Internship Timeline** This website provides a rough timeline for some of the most common APM positions offered at major companies, and links to pages which desrcibe those speicifc APM programs in more depth. :[Timeline](http://internship-timeline.com/product.html){:target= "blank"}      
 
