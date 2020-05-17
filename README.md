@@ -60,7 +60,7 @@ Obviously, a lot of big tech companies, even some of FAAMG do offer various PM p
 Moving towards the startup ecosystems, a great deal of startups also offer various PM internships and opportunities. While they may not be as well known or highly acclaimed as FAAMG, they are still invaluable experiences because in startup roles, interns are expected to wear a lot of hats, which in turn gives them exposure in alot of roles in the startup!
 
 **Major Startup Companies**
-* (1) **Uber**  : COMING SOON
+* (1) **Uber**  : https://medium.com/@andywalner/cracking-the-uber-associate-product-manager-apm-interview-b08c240e4ec
 
 * (2) **Cloudflare** : COMING SOON
 
