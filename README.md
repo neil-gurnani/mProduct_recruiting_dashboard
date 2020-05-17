@@ -39,7 +39,7 @@ Without further adieu, let's get into the **company specific** portion of this r
 ## Tech Companies
 Obviously, a lot of big tech companies, even some of FAAMG do offer various PM positions. As we look into what tech companies have to offer, keep in mind that while tech may be one of the most common route alot of PMs take, that doesn't in any way discount any of the other companies on this guide!
 
-**Major Tech Companies**
+**Major Tech Companies (FAAMG)**
 * (1) **Facebook**  : https://igotanoffer.com/blogs/product-manager/facebook-product-manager-interview
                       https://www.productschool.com/blog/product-management-2/get-product-management-job-facebook/
                       https://medium.com/@aayushxagrawal/learnings-from-my-product-manager-interview-facebook-887bc0aa95c5
@@ -60,15 +60,23 @@ Obviously, a lot of big tech companies, even some of FAAMG do offer various PM p
 Moving towards the startup ecosystems, a great deal of startups also offer various PM internships and opportunities. While they may not be as well known or highly acclaimed as FAAMG, they are still invaluable experiences because in startup roles, interns are expected to wear a lot of hats, which in turn gives them exposure in alot of roles in the startup!
 
 **Major Startup Companies**
-* (1) **Bird**  : COMING SOON
+* (1) **Uber**  : COMING SOON
 
-* (2) **Uber** : COMING SOON
+* (2) **Cloudflare** : COMING SOON
 
 * (3) **Lyft** : COMING SOON
 
 * (4) **AirBNB** : COMING SOON
 
 * (5) **Stripe**  : COMING SOON
+
+* (6) **Slack**  : COMING SOON
+
+* (7) **Snowflake**  : COMING SOON
+
+* (8) **Robinhood**  : COMING SOON
+
+
 
 
 
