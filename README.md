@@ -74,7 +74,7 @@ Moving towards the startup ecosystems and other companies, a great deal of start
 
 * (6) **LinkedIn**  :   https://medium.com/@justinemoore_85088/carving-a-path-in-tech-with-emily-carrolo-apm-at-linkedin-34832ecaf6a7
 
-* (7) **Slack**  : COMING SOON
+* (7) **Salesforce**  : COMING SOON
 
 
 
