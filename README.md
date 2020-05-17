@@ -53,6 +53,7 @@ Obviously, a lot of big tech companies, even some of FAAMG do offer various PM p
                       https://www.tryexponent.com/guides/microsoft/pm-interview
 
 * (5) **Google** : https://blog.usejournal.com/how-to-prepare-for-your-google-apm-interviews-b665584c13fc
+https://medium.com/@maayanalbert/maayan-google-c10a05df0f4c
 
 
 
@@ -69,15 +70,13 @@ Moving towards the startup ecosystems and other companies, a great deal of start
 
 * (4) **Cloudflare** : https://github.com/cloudflare-internship-2020/internship-application-product-management
 
-* (5) **Stripe**  : COMING SOON
+* (5) **Slack**  : COMING SOON
 
-* (6) **Slack**  : COMING SOON
+* (6) **Robinhood**  : COMING SOON
 
-* (7) **Robinhood**  : COMING SOON
+* (7) **Hulu**  : https://www.cosmopolitan.com/career/interviews/a40398/interview-insider-hulu-career-jobs/
 
-* (8) **Hulu**  : https://www.cosmopolitan.com/career/interviews/a40398/interview-insider-hulu-career-jobs/
-
-* (9) **LinkedIn**  :   https://medium.com/@justinemoore_85088/carving-a-path-in-tech-with-emily-carrolo-apm-at-linkedin-34832ecaf6a7
+* (8) **LinkedIn**  :   https://medium.com/@justinemoore_85088/carving-a-path-in-tech-with-emily-carrolo-apm-at-linkedin-34832ecaf6a7
 
 
 
