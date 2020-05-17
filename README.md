@@ -36,10 +36,10 @@ This is **unofficial**, largely research based advice on Recruiting for the comp
 ## Company Specific Portion
 Without further adieu, let's get into the **company specific** portion of this recruiting guide. Keep in mind that this guide is just a compilation of external sources, synthesizing findings and advice from credible people, allowing them to offer advice and insight into the PM recruiting cycle. 
 
-## Tech Companies
+## Big Tech Companies
 Obviously, a lot of big tech companies, even some of FAAMG do offer various PM positions. As we look into what tech companies have to offer, keep in mind that while tech may be one of the most common route alot of PMs take, that doesn't in any way discount any of the other companies on this guide!
 
-**Major Tech Companies (FAAMG)**
+**FAAMG**
 * (1) **Facebook**  : https://igotanoffer.com/blogs/product-manager/facebook-product-manager-interview
                       https://www.productschool.com/blog/product-management-2/get-product-management-job-facebook/
                       https://medium.com/@aayushxagrawal/learnings-from-my-product-manager-interview-facebook-887bc0aa95c5
@@ -56,10 +56,10 @@ Obviously, a lot of big tech companies, even some of FAAMG do offer various PM p
 
 
 
-## Startups
-Moving towards the startup ecosystems, a great deal of startups also offer various PM internships and opportunities. While they may not be as well known or highly acclaimed as FAAMG, they are still invaluable experiences because in startup roles, interns are expected to wear a lot of hats, which in turn gives them exposure in alot of roles in the startup!
+## Other Tech Companies
+Moving towards the startup ecosystems and other companies, a great deal of startups also offer various PM internships and opportunities. While they may not be as well known or highly acclaimed as FAAMG, they are still invaluable experiences because in startup roles, interns are expected to wear a lot of hats, which in turn gives them exposure in alot of roles in the startup!
 
-**Major Startup Companies**
+**Other**
 * (1) **Uber**  : https://medium.com/@andywalner/cracking-the-uber-associate-product-manager-apm-interview-b08c240e4ec
 
 * (2) **Lyft** : https://uxdesign.cc/the-story-of-my-summer-at-lyft-1d82c972c763
@@ -73,9 +73,13 @@ Moving towards the startup ecosystems, a great deal of startups also offer vario
 
 * (6) **Slack**  : COMING SOON
 
-* (7) **Snowflake**  : COMING SOON
+* (7) **Robinhood**  : COMING SOON
 
-* (8) **Robinhood**  : COMING SOON
+* (8) **Hulu**  : https://www.cosmopolitan.com/career/interviews/a40398/interview-insider-hulu-career-jobs/
+
+* (9) **LinkedIn**  :   https://medium.com/@justinemoore_85088/carving-a-path-in-tech-with-emily-carrolo-apm-at-linkedin-34832ecaf6a7
+
+
 
 
 
@@ -86,3 +90,5 @@ Moving towards the startup ecosystems, a great deal of startups also offer vario
 ## Interview Guide
 
 * (1) **Atharva Talpade** wrote a "Mock Interview Crash Course" detailing the different types of interview questions, how to approach each of them, and how to prep & practice for PM interviews! : https://www.notion.so/Mock-Interview-Crash-Course-4e1e7aae48264cae98d5e9beeb158612
+
+* (2) **Soundarya Balasubramani** wrote a medium article elaborating on her experiences and teaching people how to ace their PM interviews! : https://medium.com/open-product-management/how-to-crush-your-product-management-interview-ultimate-guide-for-all-aspiring-pms-8c6172ed697c
