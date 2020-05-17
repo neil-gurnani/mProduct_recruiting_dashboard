@@ -63,8 +63,9 @@ Moving towards the startup ecosystems, a great deal of startups also offer vario
 * (1) **Uber**  : https://medium.com/@andywalner/cracking-the-uber-associate-product-manager-apm-interview-b08c240e4ec
 
 * (2) **Lyft** : https://uxdesign.cc/the-story-of-my-summer-at-lyft-1d82c972c763
+                 https://eng.lyft.com/what-to-expect-when-interviewing-as-a-pm-at-lyft-fd13634ca381
 
-* (3) **Lyft** : https://eng.lyft.com/what-to-expect-when-interviewing-as-a-pm-at-lyft-fd13634ca381
+* (3) **AirBNB** : https://medium.com/@AirbnbCandidateJourney
 
 * (4) **Cloudflare** : https://github.com/cloudflare-internship-2020/internship-application-product-management
 
