@@ -7,14 +7,14 @@ This is **unofficial**, largely research based advice on Recruiting for the comp
 
 ## General helpful resources
 
-* (1) **APM List** This website provides a list of APM programs, and links with advice for each of these positions. :  *APM List* <a href="https://apmlist.com/" target="_blank">New Tab</a>
+* (1) **APM List** This website provides a list of APM programs, and links with advice for each of these positions. :  https://apmlist.com/
 
-* (2) **PM Internship Timeline** This website provides a rough timeline for some of the most common APM positions offered at major companies, and links to pages which desrcibe those speicifc APM programs in more depth. :[Timeline](http://internship-timeline.com/product.html){:target= "blank"}      
+* (2) **PM Internship Timeline** This website provides a rough timeline for some of the most common APM positions offered at major companies, and links to pages which desrcibe those speicifc APM programs in more depth. :http://internship-timeline.com/product.html
 
 * (3) **Top 15 APM Programs** This Medium articles goes into some of the top APM programs and why they are worth applying to!: https://medium.com/pminsider/product-management-digest-apm-3c2631683139
 
 
-* (4) **Justina Chen** wrote a helpful Medium article about Navigating the APM recruiting process here. She talks about her experiences with the recruiting process, covering everything from career fairs to referrals. : https://medium.com/pminsider/navigating-the-entry-level-pm-apm-recruiting-process-957993620ac5
+* (4) **Navigating the APM Recruiting Process** by Justina Chen is a helpful and thorough medium article that dives into each and every step of the process. Justina talks about her experiences with the recruiting process, covering everything from career fairs to referrals. : https://medium.com/pminsider/navigating-the-entry-level-pm-apm-recruiting-process-957993620ac5
 
 * (5) **Kyle Lubieniecki** wrote a helpful Medium article on navigating your ENTIRE career path in PM, covering everything from why you want to pursue a career in PM to insight and advice to aspiring product managers. : https://productcoalition.com/navigating-your-career-into-product-management-4a8de0f68c09
 
@@ -74,7 +74,8 @@ Moving towards the startup ecosystems and other companies, a great deal of start
 
 * (6) **LinkedIn**  :   https://medium.com/@justinemoore_85088/carving-a-path-in-tech-with-emily-carrolo-apm-at-linkedin-34832ecaf6a7
 
-* (7) **Salesforce**  : COMING SOON
+* (7) **Salesforce**  : https://trailhead.salesforce.com/users/efaddoul/trailmixes/futureforce-apm-trailmix
+                        https://www.salesforce.com/dreamforce/
 
 
 
