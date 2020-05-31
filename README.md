@@ -14,7 +14,7 @@ This is **unofficial**, largely research based advice on Recruiting for the comp
 * (3) **Top 15 APM Programs** This Medium articles goes into some of the top APM programs and why they are worth applying to!: https://medium.com/pminsider/product-management-digest-apm-3c2631683139
 
 
-* (4) **Navigating the APM Recruiting Process** by Justina Chen is a helpful and thorough medium article that dives into each and every step of the process. Justina talks about her experiences with the recruiting process, covering everything from career fairs to referrals. : https://medium.com/pminsider/navigating-the-entry-level-pm-apm-recruiting-process-957993620ac5
+* (4) **Navigating the APM Recruiting Process** by Justina Chen is a helpful and thorough medium article that dives into each and every step of the recruiting process. Justina talks about her experiences with the recruiting process, covering everything from career fairs to referrals. : https://medium.com/pminsider/navigating-the-entry-level-pm-apm-recruiting-process-957993620ac5
 
 * (5) **Kyle Lubieniecki** wrote a helpful Medium article on navigating your ENTIRE career path in PM, covering everything from why you want to pursue a career in PM to insight and advice to aspiring product managers. : https://productcoalition.com/navigating-your-career-into-product-management-4a8de0f68c09
 
