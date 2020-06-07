@@ -1,4 +1,4 @@
-# mProduct_recruiting_dashboard
+# MProduct Recruiting Dashboard
 This is a repository created for anyone interested in Product Management in conjunction with the MProduct Product Guide team. You should look to this repository for resources aiding your search for potential Product Management Roles available at companies which offer PM internships.  
 
 # Overview:
@@ -59,7 +59,7 @@ https://medium.com/@maayanalbert/maayan-google-c10a05df0f4c
 
 
 ## Other Tech Companies
-Moving towards the startup ecosystems and other companies, a great deal of startups also offer various PM internships and opportunities. While they may not be as well known or highly acclaimed as FAAMG, they are still invaluable experiences because in startup roles, interns are expected to wear a lot of hats, which in turn gives them exposure in alot of roles in the startup!
+Moving towards the startup ecosystems and other companies, a great deal of other compaies also offer various PM internships and opportunities that are worth considering. While they may not be as well known or highly acclaimed as FAAMG, they are still invaluable experiences because in startup roles, interns are expected to wear a lot of hats, which in turn gives them exposure to working in various roles in the startup, overall making them a more versatile, well rounded Product Manager.
 
 **Other**
 * (1) **Uber**  : https://medium.com/@andywalner/cracking-the-uber-associate-product-manager-apm-interview-b08c240e4ec
