@@ -5,16 +5,17 @@ This is a repository created for anyone interested in Product Management in conj
 
 This is **unofficial**, largely research based advice on Recruiting for the companies listed in this document. This page mostly covers internship information, with parts focusing on the General Recruiting Timeline, company-specific recruiting tips and pieces of advice, as well as interview practice & preparation. 
 
-## General helpful resources
+**NOTE:** Please refer to the Beginner's FAQ Guide portion of the Product Guide to learn more hollistically about Product Management before diving into these Recruiting specific resources!
 
-* (1) **APM List** This website provides a list of APM programs, and links with advice for each of these positions. :  https://apmlist.com/
+## General Resources
+
+* (1) **Navigating the APM Recruiting Process** by Justina Chen is a helpful and thorough medium article that dives into each and every step of the recruiting process. Justina talks about her experiences with the recruiting process, covering everything from career fairs to referrals. : https://medium.com/pminsider/navigating-the-entry-level-pm-apm-recruiting-process-957993620ac5
 
 * (2) **PM Internship Timeline** This website provides a rough timeline for some of the most common APM positions offered at major companies, and links to pages which desrcibe those speicifc APM programs in more depth. :http://internship-timeline.com/product.html
 
-* (3) **Top 15 APM Programs** This Medium articles goes into some of the top APM programs and why they are worth applying to!: https://medium.com/pminsider/product-management-digest-apm-3c2631683139
+* (3) **Exponent** has a terrific youtube channel that has lots of PM process & interview resources: https://www.youtube.com/channel/UCjm_qVkCPjOVDz9BWjNqO9A
 
-
-* (4) **Navigating the APM Recruiting Process** by Justina Chen is a helpful and thorough medium article that dives into each and every step of the recruiting process. Justina talks about her experiences with the recruiting process, covering everything from career fairs to referrals. : https://medium.com/pminsider/navigating-the-entry-level-pm-apm-recruiting-process-957993620ac5
+* (4) **Lenny Rachitsky** wrote an article about how to get into PM, which outlines everything from figuring out whether PM is right for you to thriving in the industry by developing core skills needed to suceed. : https://medium.com/hackernoon/how-to-get-into-product-management-78c58bd9c8cf
 
 * (5) **Kyle Lubieniecki** wrote a helpful Medium article on navigating your ENTIRE career path in PM, covering everything from why you want to pursue a career in PM to insight and advice to aspiring product managers. : https://productcoalition.com/navigating-your-career-into-product-management-4a8de0f68c09
 
@@ -22,11 +23,11 @@ This is **unofficial**, largely research based advice on Recruiting for the comp
 
 * (7) **Onfielder** released something known as the PM starter pack, which basically goes through to outline the various staged of being an effective PM, and thus being able to navigate the PM recruiting cycle. : https://pmstarterpack.onfielder.com/
 
-* (8) **Lenny Rachitsky** wrote an article about how to get into PM, which outlines everything from figuring out whether PM is right for you to thriving in the industry by developing core skills needed to suceed. : https://medium.com/hackernoon/how-to-get-into-product-management-78c58bd9c8cf
+* (8) **APM List** This website provides a list of APM programs, and links with advice for each of these positions. :  https://apmlist.com/
 
 * (9) **Ben Miller** from Product Plan wrote a piece about how to land a PM job at a large tech company. He provides insights and walks through a mini-tutorial for Google, Amazon, Facebook, and Apple: https://www.productplan.com google-amazon-facebook-apple/
 
-* (10) **Exponent** has a terrific youtube channel that has lots of PM process & interview resources: https://www.youtube.com/channel/UCjm_qVkCPjOVDz9BWjNqO9A
+* (10) **Top 15 APM Programs** This Medium articles goes into some of the top APM programs and why they are worth applying to! The focus of these roles are on post-Grad full time Product Management Roles!: https://medium.com/pminsider/product-management-digest-apm-3c2631683139
 
 
 
@@ -76,8 +77,6 @@ Moving towards the startup ecosystems and other companies, a great deal of start
 
 * (7) **Salesforce**  : https://trailhead.salesforce.com/users/efaddoul/trailmixes/futureforce-apm-trailmix
                         https://www.salesforce.com/dreamforce/
-
-
 
 
 
