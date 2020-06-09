@@ -23,16 +23,12 @@ This is **unofficial**, largely research based advice on Recruiting for the comp
 
 * (7) **Onfielder** released something known as the PM starter pack, which basically goes through to outline the various staged of being an effective PM, and thus being able to navigate the PM recruiting cycle. : https://pmstarterpack.onfielder.com/
 
-* (8) **APM List** This website provides a list of APM programs, and links with advice for each of these positions. :  https://apmlist.com/
+* (8) **Ben Miller** from Product Plan wrote a piece about how to land a PM job at a large tech company. He provides insights and walks through a mini-tutorial for Google, Amazon, Facebook, and Apple: https://www.productplan.com google-amazon-facebook-apple/
 
-* (9) **Ben Miller** from Product Plan wrote a piece about how to land a PM job at a large tech company. He provides insights and walks through a mini-tutorial for Google, Amazon, Facebook, and Apple: https://www.productplan.com google-amazon-facebook-apple/
+## New Grad Specific Portion
+* (1) **APM List** This website provides a list of APM programs, and links with advice for each of these positions. :  https://apmlist.com/
 
-* (10) **Top 15 APM Programs** This Medium articles goes into some of the top APM programs and why they are worth applying to! The focus of these roles are on post-Grad full time Product Management Roles!: https://medium.com/pminsider/product-management-digest-apm-3c2631683139
-
-
-
-
-
+* (2) **Top 15 APM Programs** This Medium articles goes into some of the top APM programs and why they are worth applying to! The focus of these roles are on post-Grad full time Product Management Roles!: https://medium.com/pminsider/product-management-digest-apm-3c2631683139
 
 ## Company Specific Portion
 Without further adieu, let's get into the **company specific** portion of this recruiting guide. Keep in mind that this guide is just a compilation of external sources, synthesizing findings and advice from credible people, allowing them to offer advice and insight into the PM recruiting cycle. 
