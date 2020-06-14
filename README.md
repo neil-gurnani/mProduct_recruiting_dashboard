@@ -10,7 +10,7 @@ This is **unofficial**, largely research based advice on Recruiting for the comp
 
 ## General Resources
 
-* (1) **Navigating the APM Recruiting Process** by Justina Chen is a helpful and thorough medium article that dives into each and every step of the recruiting process. Justina talks about her experiences with the recruiting process, covering everything from career fairs to referrals. : https://medium.com/pminsider/navigating-the-entry-level-pm-apm-recruiting-process-957993620ac5
+* (1) **[Navigating the APM Recruiting Process](https://medium.com/pminsider/navigating-the-entry-level-pm-apm-recruiting-process-957993620ac5)** by Justina Chen is a helpful and thorough medium article that dives into each and every step of the recruiting process. Justina talks about her experiences with the recruiting process, covering everything from career fairs to referrals. : https://medium.com/pminsider/navigating-the-entry-level-pm-apm-recruiting-process-957993620ac5
 
 * (2) **PM Internship Timeline** This website provides a rough timeline for some of the most common APM positions offered at major companies, and links to pages which describe those speciifc APM programs in more depth. :http://internship-timeline.com/product.html
 
