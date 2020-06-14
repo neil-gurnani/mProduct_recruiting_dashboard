@@ -5,7 +5,8 @@ This is a repository created for anyone interested in Product Management in conj
 
 This is **unofficial**, largely research based advice on Recruiting for the companies listed in this document. This page mostly covers internship information, with parts focusing on the General Recruiting Timeline, company-specific recruiting tips and pieces of advice, as well as interview practice & preparation. 
 
-**NOTE:** Please refer to the Beginner's FAQ Guide portion of the Product Guide to learn more hollistically about Product Management before diving into these Recruiting specific resources!
+
+**NOTE:** Please refer to the [Beginner's FAQ Guide](https://docs.google.com/document/d/1DqiIlsDFDgEURjuu5qogYetPev4Z-76oAmxBNIwCNv0/edit) portion of the Product Guide to learn more hollistically about Product Management before diving into these Recruiting specific resources!
 
 ## General Resources
 
