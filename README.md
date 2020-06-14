@@ -38,9 +38,10 @@ Without further adieu, let's get into the **company specific** portion of this r
 Obviously, a lot of big tech companies, even some of FAAMG do offer various PM positions. As we look into what tech companies have to offer, keep in mind that while tech may be one of the most common route alot of PMs take, that doesn't in any way discount any of the other companies on this guide!
 
 **FAAMG**
-* (1) **Facebook**  : [Facebook Product Manager Interview](https://igotanoffer.com/blogs/product-manager/facebook-product-manager-interview)
-                      [Get A Facebook Product Management Job](https://www.productschool.com/blog/product-management-2/get-product-management-job-facebook/)
-                      [Learnings From My PM Interview W/ Facebook](https://medium.com/@aayushxagrawal/learnings-from-my-product-manager-interview-facebook-887bc0aa95c5)
+* (1) **Facebook**  : 
+* [Facebook Product Manager Interview](https://igotanoffer.com/blogs/product-manager/facebook-product-manager-interview)
+* [Get A Facebook Product Management Job](https://www.productschool.com/blog/product-management-2/get-product-management-job-facebook/)
+* [Learnings From My PM Interview W/ Facebook](https://medium.com/@aayushxagrawal/learnings-from-my-product-manager-interview-facebook-887bc0aa95c5)
 
 * (2) **Amazon** : https://igotanoffer.com/blogs/product-manager/amazon-product-manager-interview
                    https://www.lewis-lin.com/newsletter-archive/2017/10/19/amazon-product-manager-interview-cheat-sheet
