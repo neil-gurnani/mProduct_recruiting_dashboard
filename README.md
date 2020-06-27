@@ -26,6 +26,10 @@ This is **unofficial**, largely research based advice on Recruiting for the comp
 
 * (8) **[Product Plan](https://www.productplan.com/google-amazon-facebook-apple/)** by Ben Miller is a piece about how to land a PM job at a large tech company. He provides insights and walks through a mini-tutorial for Google, Amazon, Facebook, and Apple.
 
+* (9) **[Hacking PM](https://hackingpm.com/)** by Philip Ruffini is the "Ultimate Guide for Breaking into Product Management": He reveals key insights and walks canditates through the recruiting process through the courses offered as well as the free resources available!
+
+* (10) **[Landing a PM Job](https://www.freecodecamp.org/news/how-to-land-a-pm-job-without-pm-experience/)** by Elena Chen is a piece where Elena gives insight into preparing for the PM Recruiting process while sharing her story and how she broke into PM.
+
 ## New Grad Specific Portion
 * (1) **[APM List](https://apmlist.com/)** This website provides a list of APM programs, and links with advice for each of these positions.
 
@@ -71,8 +75,14 @@ Obviously, a lot of big tech companies, even some of FAAMG do offer various PM p
 (9) **LinkedIn**  :   
 * [Carving a Path in Tech - APM @ LinkedIn](https://medium.com/@justinemoore_85088/carving-a-path-in-tech-with-emily-carrolo-apm-at-linkedin-34832ecaf6a7)
 
+(10) **Salesforce**  :   
+* [Salesforce Company Presentation - APM @ Salesforce](https://docs.google.com/presentation/d/1HGy9YQG8ExrsBIs5JeAFr3b2DH0oJaQ3tASNxqhDMFw/edit?usp=sharing)
+* [Salesforce APM Trailmix](https://trailhead.salesforce.com/users/efaddoul/trailmixes/futureforce-apm-trailmix)
+
 ## Interview Guide
 
 (1) **[Mock Interview Crash Course](https://www.notion.so/Mock-Interview-Crash-Course-4e1e7aae48264cae98d5e9beeb158612)** by Atharva Talpade details the different types of interview questions, how to approach each of them, and how to prep & practice for PM interviews!
 
 (2) **[How To Crush Your PM Interview](https://medium.com/open-product-management/how-to-crush-your-product-management-interview-ultimate-guide-for-all-aspiring-pms-8c6172ed697c)** - Soundarya Balasubramani elaborates on her PM experiences and teaches people how to ace their PM interviews!
+
+(3) **[Hacking PM Youtube Channel](https://www.youtube.com/channel/UC8fgtKyHY0rGn68agz7vgtQ)** - Philip Ruffini shares his PM experiences and provides insight and guidance into the PM Interview Process through his Youtube Channel!
