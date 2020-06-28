@@ -85,4 +85,6 @@ Obviously, a lot of big tech companies, even some of FAAMG do offer various PM p
 
 (2) **[How To Crush Your PM Interview](https://medium.com/open-product-management/how-to-crush-your-product-management-interview-ultimate-guide-for-all-aspiring-pms-8c6172ed697c)** - Soundarya Balasubramani elaborates on her PM experiences and teaches people how to ace their PM interviews!
 
-(3) **[Hacking PM Youtube Channel](https://www.youtube.com/channel/UC8fgtKyHY0rGn68agz7vgtQ)** - Philip Ruffini shares his PM experiences and provides insight and guidance into the PM Interview Process through his Youtube Channel!
+(3) **[Navigating APM Interviews](https://medium.com/@arjun11/navigating-apm-interviews-b3d17bec0d39)** - Arjun Lalwani goes into his experiences with PM interviews as a New Grad and offers some resources that helped him prepare!
+
+(4) **[Hacking PM Youtube Channel](https://www.youtube.com/channel/UC8fgtKyHY0rGn68agz7vgtQ)** - Philip Ruffini shares his PM experiences and provides insight and guidance into the PM Interview Process through his Youtube Channel!
